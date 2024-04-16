@@ -1,0 +1,8 @@
+! Title: Polskie filtry (Filmweb)
+! Homepage: https://github.com/pabli24/ubo-filters/
+!
+! --- Filmweb.pl ---
+! Auto Refresh Module
+||fwcdn.pl/front/assets/VKQ8v5qd.js$important,script,domain=filmweb.pl
+! Welcome Screen
+||fwcdn.pl/front/assets/DkV1Y--o.js$important,script,domain=filmweb.pl
