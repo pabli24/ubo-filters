@@ -8,5 +8,6 @@
 ||fwcdn.pl/front/assets/DI2tTF82.js$important,script,domain=filmweb.pl
 ||fwcdn.pl/front/assets/LPXlaRNz.js$important,script,domain=filmweb.pl
 ! Welcome Screen
+filmweb.pl##^script:has-text(scripts.WelcomeScreen)
 ||fwcdn.pl/front/assets/DkV1Y--o.js$important,script,domain=filmweb.pl
 ||fwcdn.pl/front/assets/D1gQ-va2.js$important,script,domain=filmweb.pl
